@@ -30,7 +30,7 @@
     "webstorm-disable-index": "^1.2.0"
   },
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=8.10.0"
   },
   "scripts": {
     "pkgfiles": "egg-bin pkgfiles",
@@ -47,7 +47,7 @@
     "bin"
   ],
   "ci": {
-    "version": "6, 8, 9"
+    "version": "8, 9"
   },
   "bug": {
     "url": "https://github.com/eggjs/egg/issues"
