@@ -20,11 +20,11 @@
   "devDependencies": {
     "autod": "^3.0.1",
     "coffee": "^4.1.0",
-    "egg": "^1.11.0",
+    "egg": "^2.5.0",
     "egg-bin": "^4.3.5",
     "egg-ci": "^1.8.0",
     "eslint": "^4.11.0",
-    "eslint-config-egg": "^5.1.1",
+    "eslint-config-egg": "^7.0.0",
     "mm": "^2.2.0",
     "urllib": "^2.25.1",
     "webstorm-disable-index": "^1.2.0"
